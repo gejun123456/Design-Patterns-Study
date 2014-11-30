@@ -67,7 +67,7 @@
       <file leaf-file-name="Design-Patterns-Study.iml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Design-Patterns-Study.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="72" selection-start="151" selection-end="151" vertical-scroll-proportion="0.071698114" vertical-offset="0" max-vertical-offset="530">
+            <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.4301887" vertical-offset="0" max-vertical-offset="530">
               <folding />
             </state>
           </provider>
@@ -84,8 +84,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-42" />
-    <option name="y" value="91" />
+    <option name="x" value="197" />
+    <option name="y" value="80" />
     <option name="width" value="1311" />
     <option name="height" value="685" />
   </component>
@@ -255,8 +255,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-42" y="91" width="1311" height="685" extended-state="1" />
-    <editor active="false" />
+    <frame x="197" y="80" width="1311" height="685" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -273,7 +273,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -311,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Design-Patterns-Study.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="72" selection-start="151" selection-end="151" vertical-scroll-proportion="0.071698114" vertical-offset="0" max-vertical-offset="530">
+        <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.4301887" vertical-offset="0" max-vertical-offset="530">
           <folding />
         </state>
       </provider>
